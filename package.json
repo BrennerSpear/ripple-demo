@@ -1,0 +1,24 @@
+{
+  "name": "ripple-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrennerSpear/ripple-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrennerSpear/ripple-demo/issues"
+  },
+  "homepage": "https://github.com/BrennerSpear/ripple-demo#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "ws": "^2.3.1"
+  }
+}
